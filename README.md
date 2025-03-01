@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plasmalmao&label=Profile%20views&color=0e75b6&style=flat" alt="plasmalmao" /> </p>
 
+- 🌱 I’m currently learning **C#, Html, Css**
+
+- 📫 How to reach me **on Discord plasmalol_**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
