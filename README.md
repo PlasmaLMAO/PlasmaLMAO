@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Plasma</h1>
-<h3 align="center">14 years old, and still learning.</h3>
+<h1 align="center">Hi, I'm Plasma</h1>
+<h3 align="center">Im, 14 years old, and still learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plasmalmao&label=Profile%20views&color=0e75b6&style=flat" alt="plasmalmao" /> </p>
 
-- 🌱 I’m currently learning **C#, Html, Css**
+- I’m currently learning **C#, Html, Css**
 
-- 📫 How to reach me **Discord plasmalol_**
+-  You can reach me on **Discord plasmalol_**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
