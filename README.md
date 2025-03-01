@@ -5,7 +5,7 @@
 
 - I’m currently learning **C#, Html, Css**
 
--  You can reach me on **Discord plasmalol_**
+-  You can reach me on **Discord, User: plasmalol_**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
