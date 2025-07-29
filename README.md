@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hi, My name is Plasma. I'm 14 years old learning Html, Css, and C#</p>
+<p align="center">Hi, My name is Plasma. I'm 14 years old learning Css, C++ and C#</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm currently learning Html, Css, and C#<br> One of my goals are being able to understand Html, Css, and C#</p>
+<p align="left">I'm currently learning Html, Css, and C#<br> One of my goals are being able to understand C++, Css, and C#</p>
 
 ###
 
