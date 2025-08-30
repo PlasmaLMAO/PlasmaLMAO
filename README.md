@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hi, My name is Plasma. I'm 15 years old learning Luau, C++ and C#</p>
+<p align="center">Hi, My name is Plasma. I'm 15 years old learning Luau and C++</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm currently learning Luau, C++, and C#<br>
+<p align="left">I'm currently learning Luau, C++. Currently focusing on Luau/Lua<br>
 
 ###
 
@@ -20,10 +20,6 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
