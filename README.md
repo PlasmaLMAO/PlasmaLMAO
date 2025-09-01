@@ -1,36 +1,18 @@
-<h1 align="center">Hi, My name is Plasma.</h1>
+# 💫 About Me:
+Im currently learning luau/lua<br>Im currently learning C++<br>I know HTML and CSS<br>Im hoping I can post some of my projects soon<br><br>
 
-###
 
-<p align="center">Hi, My name is Plasma. I'm 15 years old learning Luau and C++</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/3jgd) 
 
-###
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PlasmaLMAO&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PlasmaLMAO&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PlasmaLMAO&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2 align="left">About me</h2>
+---
+[![](https://visitcount.itsvg.in/api?id=PlasmaLMAO&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<p align="left">I'm currently learning Luau, C++. Currently focusing on Luau/Lua<br>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndpamUxY2gyZzNncDhjMm11NHY5ZXN3Ym52ZGoxdHUwcnp1MjRkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif"  />
-</div>
-
-###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=plasmalmao&label=Profile%20views&color=0e75b6&style=flat" alt="plasmalmao" /> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
