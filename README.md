@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently learning luau/lua<br>Im currently learning C++<br>I know HTML and CSS<br>Im hoping I can post some of my projects soon<br><br>
+Im currently learning C++<br>I know HTML and CSS<br>Im hoping I can post some of my projects soon<br><br>
 
 
 ## 🌐 Socials:
